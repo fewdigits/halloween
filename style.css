@@ -290,3 +290,52 @@ body {
 .gallery > img:hover {
   opacity: 1;
 }
+
+/* Reviews */
+.reviews {
+  margin-top: 114px;
+}
+
+.reviews > .page-title {
+  color: #000;
+}
+
+.reviews > .container {
+  justify-content: space-between;
+}
+
+.review-box {
+  margin-top: 60px;
+
+  width: 100%;
+  max-width: 350px;
+}
+
+.review-box > p {
+  margin-top: 30px;
+
+  font-size: 21px;
+  letter-spacing: 1px;
+}
+
+.review {
+  padding: 38px 30px 30px;
+
+  background-color: #f7f7f7;
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #999;
+}
+
+.review > p::before {
+  content: "\201C";
+  display: block;
+  font-family: "Oswald", sans-serif;
+  font-size: 96px;
+  font-weight: 700;
+  color: #f7654a;
+
+  margin-bottom: -60px;
+  margin-top: -40px;
+}
