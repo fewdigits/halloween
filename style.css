@@ -272,3 +272,21 @@ body {
   font-weight: 500;
   letter-spacing: 0.4px;
 }
+
+/* Gallery */
+.gallery {
+  margin-top: 115px;
+
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.gallery > img {
+  background-color: #404149;
+  opacity: 0.5;
+}
+
+.gallery > img:hover {
+  opacity: 1;
+}
