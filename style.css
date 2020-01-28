@@ -294,6 +294,7 @@ body {
 /* Reviews */
 .reviews {
   margin-top: 114px;
+  margin-bottom: 146px;
 }
 
 .reviews > .page-title {
@@ -312,7 +313,7 @@ body {
 }
 
 .review-box > p {
-  margin-top: 30px;
+  margin-top: 31px;
 
   font-size: 21px;
   letter-spacing: 1px;
