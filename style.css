@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Oswald";
+  font-weight: 500;
+  src: url("fonts/OswaldMedium.eot");
+  src: url("fonts/OswaldMedium.eot") format("embedded-opentype"),
+    url("fonts/OswaldMedium.woff2") format("woff2"),
+    url("fonts/OswaldMedium.woff") format("woff"),
+    url("fonts/OswaldMedium.ttf") format("truetype"),
+    url("fonts/OswaldMedium.svg#OswaldMedium") format("svg");
+}
+
+@font-face {
+  font-family: "OpenSans";
+  font-weight: 400;
+  src: url("fonts/OpenSansRegular.eot");
+  src: url("fonts/OpenSansRegular.eot") format("embedded-opentype"),
+    url("fonts/OpenSansRegular.woff2") format("woff2"),
+    url("fonts/OpenSansRegular.woff") format("woff"),
+    url("fonts/OpenSansRegular.ttf") format("truetype"),
+    url("fonts/OpenSansRegular.svg#OpenSansRegular") format("svg");
+}
