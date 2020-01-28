@@ -235,3 +235,40 @@ body {
 .btn > img {
   margin-right: 11px;
 }
+
+/* Program */
+.program {
+  margin-top: 150px;
+}
+
+.program > .page-title {
+  margin-bottom: 58px;
+
+  color: #000;
+}
+
+.program > .container {
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.program-box {
+  width: 100%;
+  max-width: 350px;
+
+  margin-bottom: 32px;
+
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.program-box > img {
+  margin-top: 52px;
+}
+
+.program-box > h5 {
+  margin: 10px 4px 59px 0;
+  font-size: 21px;
+  font-weight: 500;
+  letter-spacing: 0.4px;
+}
